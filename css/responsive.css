@@ -1,0 +1,68 @@
+@media screen and (max-width: 992px) {
+	.res p,
+	.cbc p,
+	.lookin p {
+		padding-bottom: 40px;
+	}
+
+	.res .btn,
+	.cbc .btn,
+	.lookin .btn {
+		margin-top: 40px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+
+	.navbar {
+		padding: 5px;
+	}
+
+	.navbar img {
+		width: 40px;
+		padding-top: 2px;
+	}
+
+	.hero {
+		padding-top: 150px;
+	}
+
+	.hero,
+	.res,
+	.cbc,
+	.lookin,
+	.fa,
+	.basic,
+	.select,
+	.premium,
+	.emailus {
+		padding-bottom: 50px;
+	}
+
+	.res,
+	.cbc,
+	.lookin,
+	.fa,
+	.basic,
+	.select,
+	.premium,
+	.emailus {
+		padding-top: 50px;
+	}
+
+	.res .col-xs-12,
+	.cbc .col-xs-12,
+	.lookin .col-xs-12,
+	.fa .col-xs-12,
+	.basic .col-xs-12,
+	.select .col-xs-12,
+	.premium .col-xs-12,
+	.emailus .col-xs-12 {
+		padding-bottom: 20px;
+	}
+
+	p {
+		padding: 0;
+	}
+
+}
