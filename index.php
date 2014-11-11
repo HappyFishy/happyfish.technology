@@ -3,7 +3,6 @@ $pageTitle = "Happy Fish | Website Creators";
 $section = "index";
 include('inc/header.php');
 ?>
-<!-- test -->
     <!-- start hero -->
     <div class="hero">
       <div class="container">
