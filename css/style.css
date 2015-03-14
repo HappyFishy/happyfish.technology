@@ -912,3 +912,79 @@ contact
 	-webkit-transition-duration: .25s;
 	        transition-duration: .25s;
 }
+
+/** thanks **/
+
+.thanks .btn-default {
+	border: none;
+	border-radius: 0;
+	color: #77C5F7;
+	-webkit-transition-duration: .25s;
+	        transition-duration: .25s;
+}
+
+.thanks .btn-default:hover {
+	background-color: #3D667F;
+	color: #fff;
+	-webkit-transition-duration: .25s;
+	        transition-duration: .25s;
+}
+
+.thanks a:hover {
+	text-decoration: none;
+}
+
+/** form **/
+
+.forms .btn-default {
+	border: none;
+	border-radius: 0;
+	color: #EB7260;
+	-webkit-transition-duration: .25s;
+	        transition-duration: .25s;
+}
+
+.forms .btn-default:hover {
+	background-color: #7F3E34;
+	color: #fff;
+	-webkit-transition-duration: .25s;
+	        transition-duration: .25s;
+}
+
+.forms a:hover {
+	text-decoration: none;
+}
+
+.forms .form {
+	border: none;
+	border-radius: 0;
+	color: #EB7260;
+}
+
+.forms .thank:active {
+	border: none;
+}
+
+textarea:focus, input:focus{
+    outline: 0;
+}
+
+/******************
+Disable auto-zoom
+*****************/
+
+select:focus,
+textarea:focus,
+input:focus, 
+input[type='text'],
+input[type='number'],
+textarea {
+	font-size: initial;
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		cursor: pointer;
+	}
+}
+

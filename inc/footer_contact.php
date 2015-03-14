@@ -2,12 +2,6 @@
     <div class="hffooter">
       <div class="container">
         <div class="row  text-center">
-          <div class="col-xs-12">
-            <h1>We'd love to hear from you.</h1>
-          </div>
-          <div class="col-sm-12">
-            <a href="contact.php#contact"><button type="button" class="btn btn-default">Contact Us</button></a>
-          </div>
           <div class="col-sm-12">
             <p>&copy; <?php echo date('Y'); ?> Happy Fish</p>
           </div>
